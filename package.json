@@ -1,0 +1,26 @@
+{
+    "name": "isamrs-ext",
+    "displayName": "ISA/MRS Extension Pack",
+    "description": "VSCode extension pack created and used by Team-14 at the university course ISA/MRS",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "icon.png",
+    "extensionPack": [
+        "VisualStudioExptTeam.vscodeintellicode",
+        "ms-azuretools.vscode-docker",
+        "redhat.vscode-yaml",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "johnsoncodehk.volar",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "SonarSource.sonarlint-vscode",
+        "formulahendry.auto-complete-tag",
+        "csstools.postcss",
+        "bradlc.vscode-tailwindcss"
+    ]
+}
